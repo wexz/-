@@ -1,2 +1,3 @@
 ## UI交互例子
-- http://www.blancpain-ocean-commitment.com/en-us#!/home/
+- 地球 http://www.blancpain-ocean-commitment.com/en-us#!/home/
+- 转盘 http://fluky.io/ 
